@@ -14,7 +14,6 @@ The analysis was developed using **Tableau**, based on transactional, customer, 
 ## 🎯 Business Objectives
 - Analyze customer demographics before and after the campaign
 - Measure sales performance of influencer-promoted products
-- Evaluate campaign profitability using an assumed **20% margin**
 - Provide actionable insights to support marketing decisions
 
 ---
